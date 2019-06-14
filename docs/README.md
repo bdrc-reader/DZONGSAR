@@ -1,5 +1,6 @@
 # དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
 
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/DZONGSAR/master/docs/img/01.jpg)
 <br>
 <br>
 <br>
