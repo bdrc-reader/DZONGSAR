@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/dzongsar-shedra/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/dzongsar-shedra/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <span>གཞུང་ལུགས།</span>  • <a href="https://bdrc-reader.github.io/dzongsar-shedra/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/dzongsar-shedra/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/dzongsar-shedra/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/dzongsar-shedra/natsok">སྣ་ཚོགས།</a></p>
+  <a href="https://bdrc-reader.github.io/dzongsar-shedra/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/dzongsar-shedra/shedra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <span>གཞུང་ལུགས།</span>  • <a href="https://bdrc-reader.github.io/dzongsar-shedra/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/dzongsar-shedra/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/dzongsar-shedra/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/dzongsar-shedra/natsok">སྣ་ཚོགས།</a></p>
 
 
 # རྫོང་སར་དགོན་དང་འབྲེལ་བའི་གཞུང་ལུགས་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
