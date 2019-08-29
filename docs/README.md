@@ -5,6 +5,11 @@
 
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/dzongsar-shedra/master/docs/img/01.jpg)
 
+
+# རྫོང་སར་དགོན་གྱི་ངོ་སྤྲོད་མདོར་བསྡུས།
+
+ངོ་སྤྲོད་འབྲི་དགོས།
+
 <br>
 
 ### ༡ རྫོང་སར་དགོན་གྱི་དྲ་ཚིགས་ལ་གཟིགས། [དྲ་ཚིགས།](https://bdrc-reader.github.io/dzongsar/)
@@ -14,8 +19,6 @@
 ### ༣ རྩོམ་སྒྲིག་བྱས་ཟིན་པའི་མ་ཕྱིའི་དཔེ་མཚོན་ལ་གཟིགས། [དཀར་ཆག](https://github.com/bdrc-reader/dzongsar-shedra/blob/master/karchak/W1ERI0011.tsv)
 
 <br>
-
-# རྫོང་སར་དགོན་གྱི་ངོ་སྤྲོད་མདོར་བསྡུས།
 
 # དཔེ་ཀློག་སྒེའུ་ཁུང་གི་ངོ་སྤྲོད་མདོར་བསྡུས།
 
